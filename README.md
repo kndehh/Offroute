@@ -1,6 +1,16 @@
-# Tauri + Preact + Typescript
+# Offroute
 
-This template should help get you started developing with Tauri, Preact and Typescript in Vite.
+## Tech Stack
+
+| Layer | Tech |
+|---|---|
+| Desktop runtime | Tauri v2 |
+| Frontend framework | Preact v10 |
+| Bundler | Vite v6 |
+| Language (frontend) | TypeScript 5.6 |
+| Language (backend/native) | Rust 2021 |
+| Serialization | serde + serde_json |
+| Tauri plugin | plugin-opener |
 
 ## Recommended IDE Setup
 
