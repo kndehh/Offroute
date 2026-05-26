@@ -27,7 +27,7 @@ function App() {
           <img src={preactLogo} class="logo preact" alt="Preact logo" />
         </a>
       </div>
-      <p>Click on the Tauri, Vite, and Preact logos to learn more.</p>
+      <p>Kontol</p>
 
       <form
         class="row"
